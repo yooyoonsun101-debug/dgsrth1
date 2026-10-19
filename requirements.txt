@@ -21,13 +21,13 @@ st.caption("연도별 시군구 인구 비율을 비교하는 대화형 지도")
 
 
 POPULATION_URL = (
-    "https://raw.githubusercontent.com/"
+    "https://yooyoonsun101.debug/dgsrth1"
     "first2022-cyber/contents/main/"
     "population_ts_yearly_gender.zip"
 )
 
 GEOJSON_URL = (
-    "https://raw.githubusercontent.com/"
+    "https://yooyoonsun101.debug/dgsrth1"
     "first2022-cyber/contents/main/"
     "sigungu_kr.geojson"
 )
